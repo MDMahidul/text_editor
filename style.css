@@ -1,0 +1,13 @@
+body {
+  background: #000;
+}
+.bold_font {
+  font-weight: bold;
+}
+.italic_font {
+ font-style: italic;
+}
+.underline_font {
+  text-decoration: underline;
+}
+
